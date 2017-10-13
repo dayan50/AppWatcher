@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Watcher</string>
+    <string name="menu_add">Добавитъ</string>
+    <string name="menu_refresh">Обновить</string>
+    <string name="failed_gain_access">Пожалуйста разрешите доступ. Разрешение требуется для того, чтобы связаться с Google Play Маркет.</string>
+    <string name="search_action">Поиск</string>
+    <string name="search_for_app">Найдите приложение и нажмите на него.\n
+     ( Совет: Вы можете добавлять приложения непосредственно из Play Маркет с помощью кнопки \"Поделиться\" )</string>
+    <string name="loading">Загрузка…</string>
+    <string name="no_result_found">Нет результатов для \"%s"</string>
+    <string name="no_result_wishlist">Список пуст. Вы можете добавить аппликации в Play Маркете</string>
+    <string name="error_insert_app">Не удалось добавить приложение в список для наблюдения.</string>
+    <string name="application_icon">Иконка приложения</string>
+    <string name="remove">Удалить</string>
+    <string name="problem_occurred">Проблема произошла во время получения информации.</string>
+    <string name="menu_update_frequency">Автоматическое обновление</string>
+    <string name="menu_wifi_only">Только по Wi-Fi</string>
+    <string name="alert_dialog_remove_title">Удалить?</string>
+    <string name="alert_dialog_remove_message">Вы хотите прекратить наблюдать за обновлениями для \"%s\"?</string>
+    <string name="alert_dialog_remove">Удалить</string>
+    <string name="alert_dialog_cancel">Отменить</string>
+    <string name="version">Вер. %s</string>
+    <string name="update">Обновлено до %s</string>
+    <string name="notification_one_updated">%s обновление найдено</string>
+    <string name="notification_many_updates">%d обновления(-ий) найдено</string>
+    <string name="notification_2_apps">%1$s, %2$s</string>
+    <string name="notification_2_apps_more">%1$s, %2$s и еще</string>
+    <string name="notification_click">Нажмите для деталей</string>
+    <string name="no_updates_found">Обновления не найдены.</string>
+    <string name="dialog_about_title">%1$s вер. %2$s</string>
+    <string name="dialog_about_text">Автор: Alex Gavrishev&lt;br/&gt;&lt;a href=\"https://play.google.com/store/apps/developer?id=Alex+Gavrishev\"&gt;Google Play Store /&lt;</string>
+    <string name="share">Поделиться</string>
+    <string name="share_subject">%s версия %s</string>
+    <string name="app_stored">"%s\" добавлен в список для наблюдения</string>
+    <string name="rate_app">Оценить в маркете</string>
+    <string name="installed">Установленно</string>
+    <string name="no_recent_changes">Нет информации о последних изменениях.</string>
+    <string name="last_update">Последнее обновление: %1$s</string>
+    <string name="no_files_found">Файлы не найдены</string>
+    <string name="please_wait">Подождите…</string>
+    <string name="export_done">Завершено</string>
+    <string name="unable_delete_file">Невозможно удалить файл</string>
+    <string name="import_done">Импорт завершен</string>
+    <string name="external_storage_not_available">Внешнее устройство хранения данных не доступно</string>
+    <string name="restore_deserialize_failed">Не возможно прочитать данные JSON</string>
+    <string name="failed_to_read_file">Не возможно прочитать файл</string>
+    <string name="file_not_exist">Файл не существует</string>
+    <string name="failed_to_write_file">Не удалось записать файл</string>
+    <string name="import_export">Импорт/Экспорт</string>
+    <string name="recently_updated">Недавно обновленные</string>
+    <string name="watching">Под наблюдением</string>
+    <string name="menu_filter">Поиск</string>
+    <string name="choose_an_account">Выберите аккаунт</string>
+    <string name="app_already_added">Аппликация уже в списке</string>
+    <string name="free">БЕСПЛАТНО</string>
+    <string name="error_fetching_info">Ошибка загрузки информации. Пожалуйста, попробуйте снова</string>
+    <string name="retry">Повторить</string>
+    <string name="gms_service_missing">Google Play services отсутсвуют на этом устройстве.</string>
+    <string name="gms_service_update_required">Версия Google Play services устарела.</string>
+    <string name="gms_service_disabled">Google Play services отключены на этом устройстве</string>
+    <string name="gms_service_invalid">Версия Google Play services, установленных на этом устройстве не является подлинным.</string>
+    <string name="never">Никогда</string>
+    <string name="now">сейчас</string>
+    <string name="no_registered_google_accounts">Нет зарегистрированных аккаунтов google</string>
+    <string name="gdrive_connected">Google Drive подключен</string>
+    <string name="sync_start">Синхронизирую</string>
+    <string name="sync_finish">Синхронизация завершена</string>
+    <string name="sync_error">Ошибка синхронизации</string>
+    <string name="action_settings">Настройки</string>
+    <string name="store">Маркет</string>
+    <string name="dismiss">Отменить</string>
+    <string name="add_to_appwatcher">Добавить в App Watcher</string>
+
+    <string name="tab_all">Все</string>
+    <string name="tab_installed">Установленные</string>
+    <string name="tab_not_installed">Не установленные</string>
+
+    <string name="navdrawer_item_add">Добавить</string>
+    <string name="navdrawer_item_refresh">Обновить</string>
+    <string name="navdrawer_item_settings">Настройки</string>
+
+    <string name="activity_market">Поиск</string>
+    <string name="downloaded">На устройстве</string>
+    <string name="category_updates">Обновления</string>
+    <string name="cannot_load_app">Проблем загрузки данных аппликации: \'%s\'</string>
+    <string name="uninstall">Удалить</string>
+    <string name="watch_list_is_empty">Список наблюдений пуст</string>
+    <string name="search_for_an_app">Поиск аппликации</string>
+    <string name="import_installed">Импорт установленных</string>
+    <string name="share_from_play_store">Поделиться из Play Store</string>
+    <string name="search">Поиск…</string>
+    <string name="preferences">Настройки</string>
+    <string name="all">Все</string>
+    <string name="import_action">Импорт</string>
+    <string name="import_permission_denied">Не удается запустить импорт без разрешений</string>
+    <string name="export_permission_denied">Невозможно начать экспорт без разрешений</string>
+    <string name="menu_requires_charging">Требует зарядки</string>
+    <string name="sort">Упорядочить</string>
+    <string name="allow">Разрешить</string>
+    <string name="settings_notifications">Уведомления</string>
+    <string name="uptodate_summary">Показывать уведомления об уже обновленных аппликациях</string>
+    <string name="uptodate_title">Уведомлять об установленных</string>
+    <string name="noti_action_update">Обновить</string>
+    <string name="update_all">Обновить все</string>
+    <string name="navdrawer_item_wishlist">Список желаний</string>
+    <string name="wishlist">Список желаний</string>
+    <string name="add_new_tag">Создать новый тэг</string>
+    <string name="tags">Тэги</string>
+    <string name="no_apps_with_this_tag">Нет аппликаций с этим тэгом</string>
+    <string name="add_apps">Добавить аппликации</string>
+    <string name="tag_name">Название</string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+    <string name="tag">Тэг</string>
+    <string name="action_tag">%s Тэг</string>
+    <string name="tag_app">Таг %1s</string>
+    <string name="google_drive_sync_failed">Ошибка синхронизации Google Drive</string>
+    <string name="user_action_required">Требуется действие пользователя</string>
+    <string name="check_connection">Проверьте соединение с интернетом</string>
+    <string name="refresh_scheduled">Обновление запланировано</string>
+    <string name="recently_installed">Недавно установиленные</string>
+    <string name="shortcut_search">Поиск</string>
+    <string name="shortcut_recent">Последние</string>
+    <string name="open">Открыть</string>
+    <string name="channel_name">Обновления</string>
+    <string name="channel_description">Уведомления о новых версиях аппликации из списка</string>
+    <string-array name="sort_titles">
+        <item>Название ↓</item>
+        <item>Название ↑</item>
+        <item>Дата ↓</item>
+        <item>Дата ↑</item>
+    </string-array>
+
+    <string-array name="themes">
+        <item>Авто (Темная с 22 до 6)</item> <!-- MODE_NIGHT_AUTO = 0; -->
+        <item>Светлая</item> <!-- MODE_NIGHT_NO = 1; -->
+        <item>Темная</item> <!-- MODE_NIGHT_YES = 2; -->
+    </string-array>
+
+    <string-array name="updates_frequency">
+        <item>В ручную</item>
+        <item>Каждые 2 часа</item>
+        <item>Каждые 3 часа</item>
+        <item>Каждые 6 часов</item>
+        <item>Каждые 12 часов</item>
+    </string-array>
+
+</resources>
